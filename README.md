@@ -1,4 +1,4 @@
-具体的代码实现可以参考以下示例。
+具体的代码实现可以参考以下示例；For specific code implementation, refer to the following example.
 
 import java.sql.Connection;
 
