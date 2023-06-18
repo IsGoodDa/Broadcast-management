@@ -1,4 +1,9 @@
-### 具体的代码实现可以参考以下示例；For specific code implementation, refer to the following example.
+### 广播管理模块是发展性测评系统中的一个重要组成部分，提供了对校园内信息的快速发布和管理功能。用户可以方便地发布各类通知、公告、活动等信息，同时可以进行针对性推送，例如仅向某个班级或部门发布信息。这个模块可以极大地提高学校内部信息流通的速度和效率，并且有利于学校的日常管理和运营。
+
+## The broadcast management module is an important part of the developmental assessment system, providing rapid dissemination and management of information on campus. Users can easily post various types of announcements, announcements, events, etc., and can also make targeted pushes, such as only releasing information to a certain class or department. This module can greatly improve the speed and efficiency of information flow within the school, and is conducive to the daily management and operation of the school.
+
+### 具体的代码实现可以参考以下示例；
+## For specific code implementation, refer to the following example.
 
 import java.sql.Connection;
 
@@ -189,7 +194,7 @@ public class Broadcast {
     }
 }
 
-<body>
+# <body>
   <header>
     <div class="logo">My Github Page</div>
     <nav>
